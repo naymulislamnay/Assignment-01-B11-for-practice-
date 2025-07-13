@@ -347,3 +347,34 @@ nav{
     margin-top: 0;
     margin-bottom: 23px;
 }
+
+.opinion{
+    margin-top: 80px;
+    margin-bottom: 24px;
+}
+
+.opinion-section{
+    padding: 32px;
+}
+
+.opinion-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+    background-color: #C6E4D6;
+}
+
+.opinion-option{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 24px;
+    border: 1px solid #dbdbdb;
+}
+
+
+.opinion-op{
+    background-color: #C6E4D6;
+    border-radius: 4px;
+    padding: 12.5px 16.5px;
+}
