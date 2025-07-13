@@ -414,9 +414,32 @@ nav{
 
 .news-des{
     line-height: 24px;
-
 }
 
 .news-btn{
     margin-top: 32px;
+}
+
+/* donate section style */
+
+.donate-heading, .donate-des{
+    text-align: center;
+    margin-top: 32px;
+    line-height: 24px;
+}
+
+.tk-select-option{
+    border-radius: 16px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 40px;
+    color: rgba(14, 14, 14, 0.8);
+    border: 1px solid rgba(14, 14, 14, 0.8);
+}
+
+.donate-sec-selection{
+    display: flex;
+    margin: 32px auto;
+    max-width: 1071px;
+    gap: 24px;
 }
