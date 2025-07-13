@@ -163,12 +163,13 @@ main{
 }
 
 
-.btn-type-3{
+.button-type3{
     padding: 11px 20px;
     font-size: 16;
     font-weight: 600;
     border: none;
     border-radius: 8px;
+    background-color: #5490F5;
     color: #FFFFFF;
 }
 
@@ -267,4 +268,57 @@ nav{
     border-radius: 16px;
     background-color: #FFFFFF;
     box-shadow: 3px 3px 10px black;
+}
+
+/* vision section style */
+
+.vision{
+    margin-top: 80px;
+}
+
+.vision-cards{
+    margin-top: 32px;
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+}
+
+.card-img{
+    margin-bottom: 24px;
+}
+
+.card{
+    padding: 32px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 275px;
+}
+
+
+.vision-card1{
+    background-color: rgba(84, 144, 245, 0.2);
+}
+
+.vision-card2{
+    background-color: rgba(9, 161, 92, 0.2);
+}
+
+.vision-card3{
+    background-color: rgba(255, 194, 57, 0.2);
+}
+
+.card-btn-1{
+    width: 122px;
+}
+
+.card-btn-2{
+    width: 122px;
+    background-color: #09A15C;
+}
+
+.card-btn-3{
+    width: 122px;
+    background-color: #FFC239;
 }
