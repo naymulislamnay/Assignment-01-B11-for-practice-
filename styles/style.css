@@ -378,3 +378,45 @@ nav{
     border-radius: 4px;
     padding: 12.5px 16.5px;
 }
+
+/* news section style */
+
+.news-thumb{
+    border-radius: 24px;
+}
+
+.news-01{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding: 48px ;
+    justify-content: space-between;
+    margin: 24px 0;
+}
+
+.news-heading{
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+}
+
+
+.news-img-title{
+    margin: 12px 0;
+    display: flex;
+    gap: 12px;
+}
+
+
+.al-jaz{
+    margin-top: 12px;
+}
+
+.news-des{
+    line-height: 24px;
+
+}
+
+.news-btn{
+    margin-top: 32px;
+}
