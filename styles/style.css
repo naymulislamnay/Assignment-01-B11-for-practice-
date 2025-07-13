@@ -322,3 +322,28 @@ nav{
     width: 122px;
     background-color: #FFC239;
 }
+
+
+/* Qoute section style */
+
+.qoute{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    padding: 25px 24px;
+    background-origin: content-box;
+    margin-top: 32px;
+}
+
+.qoute-des{
+    margin-top: 23px;
+    line-height: 24px;
+}
+
+.qoute-man{
+    margin-top: 12px;
+}
+
+.qoute-desig{
+    margin-top: 0;
+    margin-bottom: 23px;
+}
