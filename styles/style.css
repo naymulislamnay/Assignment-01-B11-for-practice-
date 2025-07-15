@@ -440,6 +440,72 @@ nav{
 .donate-sec-selection{
     display: flex;
     margin: 32px auto;
-    max-width: 1071px;
     gap: 24px;
+    justify-content: center;
+}
+
+
+.other-tk-option{
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.3);
+    padding: 20px 0;
+    text-align: center;
+}
+
+.donate-button{
+    display: flex;
+    margin: 32px auto;
+}
+
+
+/* subscribe section  */
+.subscription{
+    padding: 80px 265px;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+}
+
+.subscription .heading-primary{
+    text-align: center;
+}
+
+.subscription .pillar-title{
+    text-align: center;
+    margin-top: 16px;
+}
+
+.subscription-email{
+    display: flex;
+    margin: 24px 0;
+}
+
+.subscription-email input{
+    width: 600px;
+    padding: 18px 40px;
+    border: none;
+    border-radius: 10px 0 0 10px;
+}
+
+
+.subscription-email .btn-type-1{
+    border-radius: 0 10px 10px 0;
+}
+
+
+/* footer section style */
+
+footer{
+    margin-top: 80px;
+    padding: 50px 0;
+}
+
+.footer .heading-primary{
+    text-align: center;
+    margin-bottom: 64px;
+}
+
+.social-medial-icon{
+    display: flex;
+    justify-content: center;
+    gap: 23px;
 }
